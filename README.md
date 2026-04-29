@@ -113,6 +113,8 @@ RP2040 在本项目中作为 **USB Host**，因此 USB-C / Micro-USB 口不再�
 - 某些廉价 Hub 反向供电设计不规范，使用时请注意电源冲突。
 - 如果键盘不能枚举，优先检查 Hub 供电、线缆和接口方向。
 
+<img width="2275" height="1279" alt="a791742bd743eff702621a6622608542" src="https://github.com/user-attachments/assets/b00f8c58-15f8-4a2f-8f9d-1bdbd1874fde" />
+
 ### 方式 2：板子 5V/VBUS 外接供电，USB-C 接键盘
 
 理论上可行，但本项目尚未充分测试：
