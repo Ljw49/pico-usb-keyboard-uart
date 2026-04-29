@@ -1,5 +1,7 @@
 # Pico USB Keyboard to UART Terminal
 
+[English_version_readme](./README_EN.md)
+
 一个基于 **RP2040 / Raspberry Pi Pico / RP2040-Zero** 的 USB 键盘转 UART 终端输入器。
 
 它可以让普通 USB 键盘直接变成单片机/嵌入式设备可用的串口输入设备：
@@ -194,7 +196,7 @@ USB-C 口 → USB 键盘
 
 ## 固件版本
 
-可以直接在 GitHub Release 页面下载已经编译好的 `.uf2` 固件，也可以根据自己的需求修改源码后自行编译。
+可以直接在 [GitHub Release 页面](../../releases/latest)下载已经编译好的 `.uf2` 固件，也可以根据自己的需求修改源码后自行编译。
 
 工程默认会生成多个 UF2 文件，例如：
 
